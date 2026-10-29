@@ -1,0 +1,2252 @@
+[
+  {
+    "rank": 1,
+    "name": "The Shawshank Redemption",
+    "duration": "2h 22m",
+    "durationSeconds": 8520,
+    "rating": 9.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_.jpg",
+    "year": 1994
+  },
+  {
+    "rank": 2,
+    "name": "The Godfather",
+    "duration": "2h 55m",
+    "durationSeconds": 10500,
+    "rating": 9.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_.jpg",
+    "year": 1972
+  },
+  {
+    "rank": 3,
+    "name": "The Dark Knight",
+    "duration": "2h 32m",
+    "durationSeconds": 9120,
+    "rating": 9.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+    "year": 2008
+  },
+  {
+    "rank": 4,
+    "name": "The Godfather Part II",
+    "duration": "3h 22m",
+    "durationSeconds": 12120,
+    "rating": 9,
+    "image": "https://m.media-amazon.com/images/M/MV5BMDIxMzBlZDktZjMxNy00ZGI4LTgxNDEtYWRlNzRjMjJmOGQ1XkEyXkFqcGc@._V1_.jpg",
+    "year": 1974
+  },
+  {
+    "rank": 5,
+    "name": "The Lord of the Rings: The Return of the King",
+    "duration": "3h 21m",
+    "durationSeconds": 12060,
+    "rating": 9,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_.jpg",
+    "year": 2003
+  },
+  {
+    "rank": 6,
+    "name": "12 Angry Men",
+    "duration": "1h 36m",
+    "durationSeconds": 5760,
+    "rating": 9,
+    "image": "https://m.media-amazon.com/images/M/MV5BYjE4NzdmOTYtYjc5Yi00YzBiLWEzNDEtNTgxZGQ2MWVkN2NiXkEyXkFqcGc@._V1_.jpg",
+    "year": 1957
+  },
+  {
+    "rank": 7,
+    "name": "Schindler's List",
+    "duration": "3h 16m",
+    "durationSeconds": 11760,
+    "rating": 9,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg3MDc4ODgyOF5BMl5BanBnXkFtZTgwNzY1ODIyNjM@._V1_.jpg",
+    "year": 1993
+  },
+  {
+    "rank": 8,
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "duration": "2h 58m",
+    "durationSeconds": 10680,
+    "rating": 8.9,
+    "image": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_.jpg",
+    "year": 2001
+  },
+  {
+    "rank": 9,
+    "name": "Pulp Fiction",
+    "duration": "2h 34m",
+    "durationSeconds": 9240,
+    "rating": 8.8,
+    "image": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_.jpg",
+    "year": 1994
+  },
+  {
+    "rank": 10,
+    "name": "The Lord of the Rings: The Two Towers",
+    "duration": "2h 59m",
+    "durationSeconds": 10740,
+    "rating": 8.8,
+    "image": "https://m.media-amazon.com/images/M/MV5BMGQxMDdiOWUtYjc1Ni00YzM1LWE2NjMtZTg3Y2JkMjEzMTJjXkEyXkFqcGc@._V1_.jpg",
+    "year": 2002
+  },
+  {
+    "rank": 11,
+    "name": "The Good, the Bad and the Ugly",
+    "duration": "2h 28m",
+    "durationSeconds": 8880,
+    "rating": 8.8,
+    "image": "https://m.media-amazon.com/images/M/MV5BMWM5ZjQxM2YtNDlmYi00ZDNhLWI4MWUtN2VkYjBlMTY1ZTkwXkEyXkFqcGc@._V1_.jpg",
+    "year": 1966
+  },
+  {
+    "rank": 12,
+    "name": "Forrest Gump",
+    "duration": "2h 22m",
+    "durationSeconds": 8520,
+    "rating": 8.8,
+    "image": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_.jpg",
+    "year": 1994
+  },
+  {
+    "rank": 13,
+    "name": "Inception",
+    "duration": "2h 28m",
+    "durationSeconds": 8880,
+    "rating": 8.8,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+    "year": 2010
+  },
+  {
+    "rank": 14,
+    "name": "Fight Club",
+    "duration": "2h 19m",
+    "durationSeconds": 8340,
+    "rating": 8.8,
+    "image": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_.jpg",
+    "year": 1999
+  },
+  {
+    "rank": 15,
+    "name": "Star Wars: Episode V - The Empire Strikes Back",
+    "duration": "2h 4m",
+    "durationSeconds": 7440,
+    "rating": 8.7,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkxNGFlNDktZmJkNC00MDdhLTg0MTEtZjZiYWI3MGE5NWIwXkEyXkFqcGc@._V1_.jpg",
+    "year": 1980
+  },
+  {
+    "rank": 16,
+    "name": "The Matrix",
+    "duration": "2h 16m",
+    "durationSeconds": 8160,
+    "rating": 8.7,
+    "image": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_.jpg",
+    "year": 1999
+  },
+  {
+    "rank": 17,
+    "name": "Interstellar",
+    "duration": "2h 49m",
+    "durationSeconds": 10140,
+    "rating": 8.7,
+    "image": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_.jpg",
+    "year": 2014
+  },
+  {
+    "rank": 18,
+    "name": "GoodFellas",
+    "duration": "2h 25m",
+    "durationSeconds": 8700,
+    "rating": 8.7,
+    "image": "https://m.media-amazon.com/images/M/MV5BN2E5NzI2ZGMtY2VjNi00YTRjLWI1MDUtZGY5OWU1MWJjZjRjXkEyXkFqcGc@._V1_.jpg",
+    "year": 1990
+  },
+  {
+    "rank": 19,
+    "name": "One Flew Over the Cuckoo's Nest",
+    "duration": "2h 13m",
+    "durationSeconds": 7980,
+    "rating": 8.6,
+    "image": "https://m.media-amazon.com/images/M/MV5BYjBkMjgzMzYtNzRiMS00NDc3LWE4YTUtZjYxYjZhNjNhYzhhXkEyXkFqcGc@._V1_.jpg",
+    "year": 1975
+  },
+  {
+    "rank": 20,
+    "name": "Seven",
+    "duration": "2h 7m",
+    "durationSeconds": 7620,
+    "rating": 8.6,
+    "image": "https://m.media-amazon.com/images/M/MV5BY2IzNzMxZjctZjUxZi00YzAxLTk3ZjMtODFjODdhMDU5NDM1XkEyXkFqcGc@._V1_.jpg",
+    "year": 1995
+  },
+  {
+    "rank": 21,
+    "name": "It's a Wonderful Life",
+    "duration": "2h 10m",
+    "durationSeconds": 7800,
+    "rating": 8.6,
+    "image": "https://m.media-amazon.com/images/M/MV5BMDM4OWFhYjEtNTE5Yy00NjcyLTg5N2UtZDQwNDZlYjlmNDU5XkEyXkFqcGc@._V1_.jpg",
+    "year": 1946
+  },
+  {
+    "rank": 22,
+    "name": "The Silence of the Lambs",
+    "duration": "1h 58m",
+    "durationSeconds": 7080,
+    "rating": 8.6,
+    "image": "https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_.jpg",
+    "year": 1991
+  },
+  {
+    "rank": 23,
+    "name": "Saving Private Ryan",
+    "duration": "2h 49m",
+    "durationSeconds": 10140,
+    "rating": 8.6,
+    "image": "https://m.media-amazon.com/images/M/MV5BZGZhZGQ1ZWUtZTZjYS00MDJhLWFkYjctN2ZlYjE5NWYwZDM2XkEyXkFqcGc@._V1_.jpg",
+    "year": 1998
+  },
+  {
+    "rank": 24,
+    "name": "Seven Samurai",
+    "duration": "3h 27m",
+    "durationSeconds": 12420,
+    "rating": 8.6,
+    "image": "https://m.media-amazon.com/images/M/MV5BZjliMWExOTMtZDQ3ZS00NWU3LWIyN2EtMjllNzk3ZTNlYzg4XkEyXkFqcGc@._V1_.jpg",
+    "year": 1954
+  },
+  {
+    "rank": 25,
+    "name": "The Green Mile",
+    "duration": "3h 9m",
+    "durationSeconds": 11340,
+    "rating": 8.6,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_.jpg",
+    "year": 1999
+  },
+  {
+    "rank": 26,
+    "name": "City of God",
+    "duration": "2h 10m",
+    "durationSeconds": 7800,
+    "rating": 8.6,
+    "image": "https://m.media-amazon.com/images/M/MV5BYjY4NGI5OTUtY2ZlZS00Zjk4LTk5N2MtN2JmYWVjNGNmMGRlXkEyXkFqcGc@._V1_.jpg",
+    "year": 2002
+  },
+  {
+    "rank": 27,
+    "name": "Life Is Beautiful",
+    "duration": "1h 56m",
+    "durationSeconds": 6960,
+    "rating": 8.6,
+    "image": "https://m.media-amazon.com/images/M/MV5BZTBhOGYzZjQtYzE0Mi00MGIwLWE0MWYtNzMxNTM2OTFkM2NjXkEyXkFqcGc@._V1_.jpg",
+    "year": 1997
+  },
+  {
+    "rank": 28,
+    "name": "Terminator 2: Judgment Day",
+    "duration": "2h 17m",
+    "durationSeconds": 8220,
+    "rating": 8.6,
+    "image": "https://m.media-amazon.com/images/M/MV5BNGMyMGNkMDUtMjc2Ni00NWFlLTgyODEtZTY2MzBiZTg0OWZiXkEyXkFqcGc@._V1_.jpg",
+    "year": 1991
+  },
+  {
+    "rank": 29,
+    "name": "Back to the Future",
+    "duration": "1h 56m",
+    "durationSeconds": 6960,
+    "rating": 8.5,
+    "image": "https://m.media-amazon.com/images/M/MV5BZmM3ZjE0NzctNjBiOC00MDZmLTgzMTUtNGVlOWFlOTNiZDJiXkEyXkFqcGc@._V1_.jpg",
+    "year": 1985
+  },
+  {
+    "rank": 30,
+    "name": "Star Wars: Episode IV - A New Hope",
+    "duration": "2h 1m",
+    "durationSeconds": 7260,
+    "rating": 8.6,
+    "image": "https://m.media-amazon.com/images/M/MV5BYjViYzQ5MTktYmNiYi00MzdkLTgxNDItMjQxYTFkOTBlNDgzXkEyXkFqcGc@._V1_.jpg",
+    "year": 1977
+  },
+  {
+    "rank": 31,
+    "name": "Spirited Away",
+    "duration": "2h 4m",
+    "durationSeconds": 7440,
+    "rating": 8.6,
+    "image": "https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_.jpg",
+    "year": 2001
+  },
+  {
+    "rank": 32,
+    "name": "Gladiator",
+    "duration": "2h 35m",
+    "durationSeconds": 9300,
+    "rating": 8.5,
+    "image": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_.jpg",
+    "year": 2000
+  },
+  {
+    "rank": 33,
+    "name": "The Pianist",
+    "duration": "2h 30m",
+    "durationSeconds": 9000,
+    "rating": 8.5,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjEwNmEwYjgtNTk3ZC00NjljLTg5ZDctZTY3ZGQwZjRkZmQxXkEyXkFqcGc@._V1_.jpg",
+    "year": 2002
+  },
+  {
+    "rank": 34,
+    "name": "Kill Bill: The Whole Bloody Affair",
+    "duration": "4h 13m",
+    "durationSeconds": 15180,
+    "rating": 8.7,
+    "image": "https://m.media-amazon.com/images/M/MV5BZDc2YzhkODAtZmRmZS00YzcxLWJkYWEtM2ZhZjY3MmMyZmJiXkEyXkFqcGc@._V1_.jpg",
+    "year": 2004
+  },
+  {
+    "rank": 35,
+    "name": "Parasite",
+    "duration": "2h 12m",
+    "durationSeconds": 7920,
+    "rating": 8.5,
+    "image": "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_.jpg",
+    "year": 2019
+  },
+  {
+    "rank": 36,
+    "name": "Grave of the Fireflies",
+    "duration": "1h 28m",
+    "durationSeconds": 5280,
+    "rating": 8.5,
+    "image": "https://m.media-amazon.com/images/M/MV5BNTY5MmE2OGMtN2IxNC00MDY4LTkwMGEtZDUzOTYyNWE0ZTNjXkEyXkFqcGc@._V1_.jpg",
+    "year": 1988
+  },
+  {
+    "rank": 37,
+    "name": "Harakiri",
+    "duration": "2h 13m",
+    "durationSeconds": 7980,
+    "rating": 8.6,
+    "image": "https://m.media-amazon.com/images/M/MV5BZThiZjU5ZDQtZDI4Mi00ZGYyLTkzOTktYmIzZTFlZTkxYzg5XkEyXkFqcGc@._V1_.jpg",
+    "year": 1962
+  },
+  {
+    "rank": 38,
+    "name": "The Lion King",
+    "duration": "1h 28m",
+    "durationSeconds": 5280,
+    "rating": 8.5,
+    "image": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_.jpg",
+    "year": 1994
+  },
+  {
+    "rank": 39,
+    "name": "Psycho",
+    "duration": "1h 49m",
+    "durationSeconds": 6540,
+    "rating": 8.5,
+    "image": "https://m.media-amazon.com/images/M/MV5BYjZhMzFiZjItODA3ZC00MmRhLWIzMGYtMmVjOWUwYTA3MTRjXkEyXkFqcGc@._V1_.jpg",
+    "year": 1960
+  },
+  {
+    "rank": 40,
+    "name": "The Departed",
+    "duration": "2h 31m",
+    "durationSeconds": 9060,
+    "rating": 8.5,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_.jpg",
+    "year": 2006
+  },
+  {
+    "rank": 41,
+    "name": "Whiplash",
+    "duration": "1h 46m",
+    "durationSeconds": 6360,
+    "rating": 8.5,
+    "image": "https://m.media-amazon.com/images/M/MV5BMDFjOWFkYzktYzhhMC00NmYyLTkwY2EtYjViMDhmNzg0OGFkXkEyXkFqcGc@._V1_.jpg",
+    "year": 2014
+  },
+  {
+    "rank": 42,
+    "name": "The Prestige",
+    "duration": "2h 10m",
+    "durationSeconds": 7800,
+    "rating": 8.5,
+    "image": "https://m.media-amazon.com/images/M/MV5BNTZjMzljYTktMWEwZC00YzNjLWIzOTQtZTViNzYyY2Q5NDBmXkEyXkFqcGc@._V1_.jpg",
+    "year": 2006
+  },
+  {
+    "rank": 43,
+    "name": "American History X",
+    "duration": "1h 59m",
+    "durationSeconds": 7140,
+    "rating": 8.5,
+    "image": "https://m.media-amazon.com/images/M/MV5BMzhiOTQ0NDItOTg0Zi00OGVmLWE0OGEtMTI4NDM0NWMxZWU4XkEyXkFqcGc@._V1_.jpg",
+    "year": 1998
+  },
+  {
+    "rank": 44,
+    "name": "Spider-Man: Across the Spider-Verse",
+    "duration": "2h 20m",
+    "durationSeconds": 8400,
+    "rating": 8.5,
+    "image": "https://m.media-amazon.com/images/M/MV5BNThiZjA3MjItZGY5Ni00ZmJhLWEwN2EtOTBlYTA4Y2E0M2ZmXkEyXkFqcGc@._V1_.jpg",
+    "year": 2023
+  },
+  {
+    "rank": 45,
+    "name": "Cinema Paradiso",
+    "duration": "2h 54m",
+    "durationSeconds": 10440,
+    "rating": 8.5,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTljNzc4YWEtYTZlMS00ODMyLWIwMTAtNWQxY2VkMDEwYTk5XkEyXkFqcGc@._V1_.jpg",
+    "year": 1988
+  },
+  {
+    "rank": 46,
+    "name": "Leon",
+    "duration": "1h 50m",
+    "durationSeconds": 6600,
+    "rating": 8.5,
+    "image": "https://m.media-amazon.com/images/M/MV5BNGRkYTNhOWQtYmI0Ni00MjZhLWJmMzAtMTA2Mjg4NGNiNDU0XkEyXkFqcGc@._V1_.jpg",
+    "year": 1994
+  },
+  {
+    "rank": 47,
+    "name": "Casablanca",
+    "duration": "1h 42m",
+    "durationSeconds": 6120,
+    "rating": 8.5,
+    "image": "https://m.media-amazon.com/images/M/MV5BNWEzN2U1YTYtYTQyMS00NTVkLWE2NGQtZWFlMmM0MDNjMmRiXkEyXkFqcGc@._V1_.jpg",
+    "year": 1942
+  },
+  {
+    "rank": 48,
+    "name": "Untouchable",
+    "duration": "1h 52m",
+    "durationSeconds": 6720,
+    "rating": 8.5,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_.jpg",
+    "year": 2011
+  },
+  {
+    "rank": 49,
+    "name": "The Usual Suspects",
+    "duration": "1h 46m",
+    "durationSeconds": 6360,
+    "rating": 8.5,
+    "image": "https://m.media-amazon.com/images/M/MV5BOTE5MDUxZDUtZWZmZC00NDVmLWFhOGQtNWI2YTc4NzY3MGQ0XkEyXkFqcGc@._V1_.jpg",
+    "year": 1995
+  },
+  {
+    "rank": 50,
+    "name": "Django Unchained",
+    "duration": "2h 45m",
+    "durationSeconds": 9900,
+    "rating": 8.5,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_.jpg",
+    "year": 2012
+  },
+  {
+    "rank": 51,
+    "name": "Alien",
+    "duration": "1h 57m",
+    "durationSeconds": 7020,
+    "rating": 8.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BN2NhMDk2MmEtZDQzOC00MmY5LThhYzAtMDdjZGFjOGZjMjdjXkEyXkFqcGc@._V1_.jpg",
+    "year": 1979
+  },
+  {
+    "rank": 52,
+    "name": "Rear Window",
+    "duration": "1h 52m",
+    "durationSeconds": 6720,
+    "rating": 8.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BODZhOWI1ODgtMzdiOS00YjNkLTgwOGUtYmIyZDg5ZmQwMzQ1XkEyXkFqcGc@._V1_.jpg",
+    "year": 1954
+  },
+  {
+    "rank": 53,
+    "name": "Modern Times",
+    "duration": "1h 27m",
+    "durationSeconds": 5220,
+    "rating": 8.5,
+    "image": "https://m.media-amazon.com/images/M/MV5BODVkZGFhNGQtYjdiYi00Njc4LWFmYTItNTlmNzJjMTg1ZDc5XkEyXkFqcGc@._V1_.jpg",
+    "year": 1936
+  },
+  {
+    "rank": 54,
+    "name": "Once Upon a Time in the West",
+    "duration": "2h 46m",
+    "durationSeconds": 9960,
+    "rating": 8.5,
+    "image": "https://m.media-amazon.com/images/M/MV5BZjYyNGY1MDEtN2I1MC00MGVhLTljZTYtODQ1NzQ0ODc2NzZlXkEyXkFqcGc@._V1_.jpg",
+    "year": 1968
+  },
+  {
+    "rank": 55,
+    "name": "WALL·E",
+    "duration": "1h 38m",
+    "durationSeconds": 5880,
+    "rating": 8.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_.jpg",
+    "year": 2008
+  },
+  {
+    "rank": 56,
+    "name": "City Lights",
+    "duration": "1h 27m",
+    "durationSeconds": 5220,
+    "rating": 8.5,
+    "image": "https://m.media-amazon.com/images/M/MV5BM2U4NjgzODUtODkyOC00YTE2LTlhNTItYzFlYmM1NTEzZDA2XkEyXkFqcGc@._V1_.jpg",
+    "year": 1931
+  },
+  {
+    "rank": 57,
+    "name": "Apocalypse Now",
+    "duration": "2h 27m",
+    "durationSeconds": 8820,
+    "rating": 8.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BZDhiMTljYjYtODc1Yy00MmEwLTg2OTYtYmE1YTRmNDE4MmEwXkEyXkFqcGc@._V1_.jpg",
+    "year": 1979
+  },
+  {
+    "rank": 58,
+    "name": "Avengers: Infinity War",
+    "duration": "2h 29m",
+    "durationSeconds": 8940,
+    "rating": 8.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+    "year": 2018
+  },
+  {
+    "rank": 59,
+    "name": "Memento",
+    "duration": "1h 53m",
+    "durationSeconds": 6780,
+    "rating": 8.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BMGQ3Y2Q4NjktN2E4Ny00Y2Q2LTliZDUtZTNiNjRhY2I0NGIyXkEyXkFqcGc@._V1_.jpg",
+    "year": 2000
+  },
+  {
+    "rank": 60,
+    "name": "Dune: Part Two",
+    "duration": "2h 46m",
+    "durationSeconds": 9960,
+    "rating": 8.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_.jpg",
+    "year": 2024
+  },
+  {
+    "rank": 61,
+    "name": "Raiders of the Lost Ark",
+    "duration": "1h 55m",
+    "durationSeconds": 6900,
+    "rating": 8.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BOGNhMjg2ZjgtYzk4Ni00MTViLTg1MmUtYzM2MDZiYjZlMmU3XkEyXkFqcGc@._V1_.jpg",
+    "year": 1981
+  },
+  {
+    "rank": 62,
+    "name": "Spider-Man: Into the Spider-Verse",
+    "duration": "1h 57m",
+    "durationSeconds": 7020,
+    "rating": 8.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_.jpg",
+    "year": 2018
+  },
+  {
+    "rank": 63,
+    "name": "The Lives of Others",
+    "duration": "2h 17m",
+    "durationSeconds": 8220,
+    "rating": 8.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BYjM1N2Q0YWEtN2E5MC00NDM3LTk2NTEtMTc1NTk5OTA5ZGIzXkEyXkFqcGc@._V1_.jpg",
+    "year": 2006
+  },
+  {
+    "rank": 64,
+    "name": "The Odyssey",
+    "duration": "2h 52m",
+    "durationSeconds": 10320,
+    "rating": 8.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_.jpg",
+    "year": 2026
+  },
+  {
+    "rank": 65,
+    "name": "Sunset Boulevard",
+    "duration": "1h 50m",
+    "durationSeconds": 6600,
+    "rating": 8.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_.jpg",
+    "year": 1950
+  },
+  {
+    "rank": 66,
+    "name": "Witness for the Prosecution",
+    "duration": "1h 56m",
+    "durationSeconds": 6960,
+    "rating": 8.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BNjRhNTQzMzQtMWViMi00ODQ1LTg0MTEtYWE4ZWZlYjM4YjJhXkEyXkFqcGc@._V1_.jpg",
+    "year": 1957
+  },
+  {
+    "rank": 67,
+    "name": "Paths of Glory",
+    "duration": "1h 28m",
+    "durationSeconds": 5280,
+    "rating": 8.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BNmQ2NmI2ODYtMDQzNS00NzQyLTkzZjgtZmZlYTQ5MTc1OWU3XkEyXkFqcGc@._V1_.jpg",
+    "year": 1957
+  },
+  {
+    "rank": 68,
+    "name": "Inglourious Basterds",
+    "duration": "2h 33m",
+    "durationSeconds": 9180,
+    "rating": 8.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BODZhMWJlNjYtNDExNC00MTIzLTllM2ItOGQ2NGVjNDQ3MzkzXkEyXkFqcGc@._V1_.jpg",
+    "year": 2009
+  },
+  {
+    "rank": 69,
+    "name": "The Shining",
+    "duration": "2h 26m",
+    "durationSeconds": 8760,
+    "rating": 8.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BNmM5ZThhY2ItOGRjOS00NzZiLWEwYTItNDgyMjFkOTgxMmRiXkEyXkFqcGc@._V1_.jpg",
+    "year": 1980
+  },
+  {
+    "rank": 70,
+    "name": "The Great Dictator",
+    "duration": "2h 5m",
+    "durationSeconds": 7500,
+    "rating": 8.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BNDE3NmIzZjItMzNlMi00YWI0LWIzMTktMGRkMWE0ZDhiMmM5XkEyXkFqcGc@._V1_.jpg",
+    "year": 1940
+  },
+  {
+    "rank": 71,
+    "name": "Aliens",
+    "duration": "2h 17m",
+    "durationSeconds": 8220,
+    "rating": 8.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BODJlYzRjODUtNzBhOS00MTA5LTgzOWItMTg3YzcyOTNmNzQxXkEyXkFqcGc@._V1_.jpg",
+    "year": 1986
+  },
+  {
+    "rank": 72,
+    "name": "High and Low",
+    "duration": "2h 23m",
+    "durationSeconds": 8580,
+    "rating": 8.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BMGJiNzllYjktODAzNS00OGUzLTlmY2MtMjA2ZTZhYTY1OTc4XkEyXkFqcGc@._V1_.jpg",
+    "year": 1963
+  },
+  {
+    "rank": 73,
+    "name": "12th Fail",
+    "duration": "2h 27m",
+    "durationSeconds": 8820,
+    "rating": 8.7,
+    "image": "https://m.media-amazon.com/images/M/MV5BNTE3OTIxZDYtNjA0NC00N2YxLTg1NGQtOTYxNmZkMDkwOWNjXkEyXkFqcGc@._V1_.jpg",
+    "year": 2023
+  },
+  {
+    "rank": 74,
+    "name": "Avengers: Endgame",
+    "duration": "3h 1m",
+    "durationSeconds": 10860,
+    "rating": 8.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
+    "year": 2019
+  },
+  {
+    "rank": 75,
+    "name": "Good Will Hunting",
+    "duration": "2h 6m",
+    "durationSeconds": 7560,
+    "rating": 8.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BNDdjZGQ5YzEtNTc2My00Mjc0LWFlMTctYzkwMzZlNzdiZWYzXkEyXkFqcGc@._V1_.jpg",
+    "year": 1997
+  },
+  {
+    "rank": 76,
+    "name": "Coco",
+    "duration": "1h 45m",
+    "durationSeconds": 6300,
+    "rating": 8.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BMDIyM2E2NTAtMzlhNy00ZGUxLWI1NjgtZDY5MzhiMDc5NGU3XkEyXkFqcGc@._V1_.jpg",
+    "year": 2017
+  },
+  {
+    "rank": 77,
+    "name": "Toy Story",
+    "duration": "1h 21m",
+    "durationSeconds": 4860,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BZTA3OWVjOWItNjE1NS00NzZiLWE1MjgtZDZhMWI1ZTlkNzYwXkEyXkFqcGc@._V1_.jpg",
+    "year": 1995
+  },
+  {
+    "rank": 78,
+    "name": "The Dark Knight Rises",
+    "duration": "2h 44m",
+    "durationSeconds": 9840,
+    "rating": 8.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_.jpg",
+    "year": 2012
+  },
+  {
+    "rank": 79,
+    "name": "Amadeus",
+    "duration": "2h 40m",
+    "durationSeconds": 9600,
+    "rating": 8.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BMzc2MjM0NTMtOGY4NC00NzY1LWE2ODUtZjMzY2RhNGNkZDAyXkEyXkFqcGc@._V1_.jpg",
+    "year": 1984
+  },
+  {
+    "rank": 80,
+    "name": "Your Name.",
+    "duration": "1h 46m",
+    "durationSeconds": 6360,
+    "rating": 8.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjI1ODZkYTgtYTY3Yy00ZTJkLWFkOTgtZDUyYWM4MzQwNjk0XkEyXkFqcGc@._V1_.jpg",
+    "year": 2016
+  },
+  {
+    "rank": 81,
+    "name": "3 Idiots",
+    "duration": "2h 50m",
+    "durationSeconds": 10200,
+    "rating": 8.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BNzc4ZWQ3NmYtODE0Ny00YTQ4LTlkZWItNTBkMGQ0MmUwMmJlXkEyXkFqcGc@._V1_.jpg",
+    "year": 2009
+  },
+  {
+    "rank": 82,
+    "name": "Das Boot",
+    "duration": "2h 29m",
+    "durationSeconds": 8940,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BNGU0MWZlMTUtM2Y3Ny00NGNmLWE5NmEtN2YxOWQzMGM3ZWYzXkEyXkFqcGc@._V1_.jpg",
+    "year": 1981
+  },
+  {
+    "rank": 83,
+    "name": "Braveheart",
+    "duration": "2h 58m",
+    "durationSeconds": 10680,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BNGMxZDBhNGQtYTZlNi00N2UzLWI4NDEtNmUzNWM2NTdmZDA0XkEyXkFqcGc@._V1_.jpg",
+    "year": 1995
+  },
+  {
+    "rank": 84,
+    "name": "Princess Mononoke",
+    "duration": "2h 13m",
+    "durationSeconds": 7980,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BZTcyN2Y0MDYtMGI1NC00MWQ1LWFhZGMtN2U4NTcxZGYyNjljXkEyXkFqcGc@._V1_.jpg",
+    "year": 1997
+  },
+  {
+    "rank": 85,
+    "name": "Oldboy",
+    "duration": "2h 0m",
+    "durationSeconds": 7200,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTAwNzNjYWItZmI0Ni00ZTcyLWIwNWMtZjlmNGMxZTEyYTJmXkEyXkFqcGc@._V1_.jpg",
+    "year": 2003
+  },
+  {
+    "rank": 86,
+    "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "duration": "1h 35m",
+    "durationSeconds": 5700,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjFjYzBlOTktMTI2OS00ZWVhLTgxMDUtNzAwODY2NmI3YTAzXkEyXkFqcGc@._V1_.jpg",
+    "year": 1964
+  },
+  {
+    "rank": 87,
+    "name": "American Beauty",
+    "duration": "2h 2m",
+    "durationSeconds": 7320,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BMDI1MDE0OTMtMmI2MS00Yjc2LTg2MTItMWExYTg5NzA1OGUzXkEyXkFqcGc@._V1_.jpg",
+    "year": 1999
+  },
+  {
+    "rank": 88,
+    "name": "Attack on Titan: The Last Attack",
+    "duration": "2h 25m",
+    "durationSeconds": 8700,
+    "rating": 8.9,
+    "image": "https://m.media-amazon.com/images/M/MV5BNzVjOWEwYjEtNDJhOC00YjUyLThjMWItMDQwZGY1ODM4YzI3XkEyXkFqcGc@._V1_.jpg",
+    "year": 2024
+  },
+  {
+    "rank": 89,
+    "name": "Capernaum",
+    "duration": "2h 6m",
+    "durationSeconds": 7560,
+    "rating": 8.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BYzEyMzQ1OTktZTljZi00OWQzLWE2ZmUtZjQyNzBjYjE1NTc0XkEyXkFqcGc@._V1_.jpg",
+    "year": 2018
+  },
+  {
+    "rank": 90,
+    "name": "Singin' in the Rain",
+    "duration": "1h 43m",
+    "durationSeconds": 6180,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BMGQzZDFjZWUtZDU4ZS00ZjM3LTgyYmItYjA3YmIwYzRkZWY3XkEyXkFqcGc@._V1_.jpg",
+    "year": 1952
+  },
+  {
+    "rank": 91,
+    "name": "Once Upon a Time in America",
+    "duration": "3h 49m",
+    "durationSeconds": 13740,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BMDQ0ZTg2OGUtZjMyOC00M2M5LThkMmItZmM2MmUzMmIxMWJhXkEyXkFqcGc@._V1_.jpg",
+    "year": 1984
+  },
+  {
+    "rank": 92,
+    "name": "Joker",
+    "duration": "2h 2m",
+    "durationSeconds": 7320,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BNzY3OWQ5NDktNWQ2OC00ZjdlLThkMmItMDhhNDk3NTFiZGU4XkEyXkFqcGc@._V1_.jpg",
+    "year": 2019
+  },
+  {
+    "rank": 93,
+    "name": "Toy Story 3",
+    "duration": "1h 43m",
+    "durationSeconds": 6180,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_.jpg",
+    "year": 2010
+  },
+  {
+    "rank": 94,
+    "name": "Star Wars: Episode VI - Return of the Jedi",
+    "duration": "2h 11m",
+    "durationSeconds": 7860,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BNWEwOTI0MmUtMGNmNy00ODViLTlkZDQtZTg1YmQ3MDgyNTUzXkEyXkFqcGc@._V1_.jpg",
+    "year": 1983
+  },
+  {
+    "rank": 95,
+    "name": "Come and See",
+    "duration": "2h 22m",
+    "durationSeconds": 8520,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BNDlkZmVkZDAtZGFmMS00OWIzLWJkY2YtNWE5NjNhNjhiZGE3XkEyXkFqcGc@._V1_.jpg",
+    "year": 1985
+  },
+  {
+    "rank": 96,
+    "name": "Requiem for a Dream",
+    "duration": "1h 42m",
+    "durationSeconds": 6120,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BN2ZlMjIzZjctYzA2My00ZWYyLWI4ZjctMGI2NWYyNzFiZjAwXkEyXkFqcGc@._V1_.jpg",
+    "year": 2000
+  },
+  {
+    "rank": 97,
+    "name": "Incendies",
+    "duration": "2h 11m",
+    "durationSeconds": 7860,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BYWFmMjdmNjctNzhhOC00ZmMzLTkwOGItMmVmZDU4MjE2MTYwXkEyXkFqcGc@._V1_.jpg",
+    "year": 2010
+  },
+  {
+    "rank": 98,
+    "name": "Ikiru",
+    "duration": "2h 23m",
+    "durationSeconds": 8580,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BOGU1YTBlN2ItMDAxNy00NjM5LWE4MTAtNTBhZmY4ZTgzYTlkXkEyXkFqcGc@._V1_.jpg",
+    "year": 1952
+  },
+  {
+    "rank": 99,
+    "name": "The Hunt",
+    "duration": "1h 55m",
+    "durationSeconds": 6900,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_.jpg",
+    "year": 2012
+  },
+  {
+    "rank": 100,
+    "name": "Eternal Sunshine of the Spotless Mind",
+    "duration": "1h 48m",
+    "durationSeconds": 6480,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BMzhlNjY1MzAtMDJhYS00Y2ZiLWE4ZjMtOGQ5MWQ4NDZkZjJhXkEyXkFqcGc@._V1_.jpg",
+    "year": 2004
+  },
+  {
+    "rank": 101,
+    "name": "The Apartment",
+    "duration": "2h 5m",
+    "durationSeconds": 7500,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BNDdhMzVhOWQtNDU2Mi00ZmZmLWJiZDMtY2QxMjhjY2Y1ZTI5XkEyXkFqcGc@._V1_.jpg",
+    "year": 1960
+  },
+  {
+    "rank": 102,
+    "name": "Lawrence of Arabia",
+    "duration": "3h 47m",
+    "durationSeconds": 13620,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BYjY0YTQ1OTAtYjEyNy00NTQ4LThlMTQtM2QwYTVhYWFhNjU5XkEyXkFqcGc@._V1_.jpg",
+    "year": 1962
+  },
+  {
+    "rank": 103,
+    "name": "Heat",
+    "duration": "2h 50m",
+    "durationSeconds": 10200,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkxYjU1OTMtYWViZC00ZjAzLWI3MDktZGQ2N2VmMjVjNDRlXkEyXkFqcGc@._V1_.jpg",
+    "year": 1995
+  },
+  {
+    "rank": 104,
+    "name": "Scarface",
+    "duration": "2h 50m",
+    "durationSeconds": 10200,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BNDUzYjY0NmUtMDM4OS00Y2Q5LWJiODYtNTk0ZTk0YjZhMTg1XkEyXkFqcGc@._V1_.jpg",
+    "year": 1983
+  },
+  {
+    "rank": 105,
+    "name": "Up",
+    "duration": "1h 36m",
+    "durationSeconds": 5760,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTgyMzE3Nzg2OF5BMl5BanBnXkFtZTcwMzg0Mjc4Mg@@._V1_.jpg",
+    "year": 2009
+  },
+  {
+    "rank": 106,
+    "name": "Reservoir Dogs",
+    "duration": "1h 39m",
+    "durationSeconds": 5940,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BMmMzYjg4NDctYWY0Mi00OGViLWIzMTMtYWNlZGY5ZDJmYjk3XkEyXkFqcGc@._V1_.jpg",
+    "year": 1992
+  },
+  {
+    "rank": 107,
+    "name": "2001: A Space Odyssey",
+    "duration": "2h 29m",
+    "durationSeconds": 8940,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BNjU0NDFkMTQtZWY5OS00MmZhLTg3Y2QtZmJhMzMzMWYyYjc2XkEyXkFqcGc@._V1_.jpg",
+    "year": 1968
+  },
+  {
+    "rank": 108,
+    "name": "Double Indemnity",
+    "duration": "1h 47m",
+    "durationSeconds": 6420,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BM2YwNjZlZDktNTlmNS00ODQwLWJmNmUtYmE1NTBhYjc1YTY5XkEyXkFqcGc@._V1_.jpg",
+    "year": 1944
+  },
+  {
+    "rank": 109,
+    "name": "Like Stars on Earth",
+    "duration": "2h 42m",
+    "durationSeconds": 9720,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BZTI0ZGRiMDEtNGNjMS00MGU4LWI3OTktNzcxMDZmZTk3MTljXkEyXkFqcGc@._V1_.jpg",
+    "year": 2007
+  },
+  {
+    "rank": 110,
+    "name": "North by Northwest",
+    "duration": "2h 16m",
+    "durationSeconds": 8160,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BZWIzODI2OGItMzM0Ny00OGRmLTlkNmItMDQxMTFmMTk3YmQwXkEyXkFqcGc@._V1_.jpg",
+    "year": 1959
+  },
+  {
+    "rank": 111,
+    "name": "Full Metal Jacket",
+    "duration": "1h 56m",
+    "durationSeconds": 6960,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BYWUzNzZkNzUtNDdiYy00Nzk5LTgxMmItNTk0MjRjNjdjNDA0XkEyXkFqcGc@._V1_.jpg",
+    "year": 1987
+  },
+  {
+    "rank": 112,
+    "name": "A Separation",
+    "duration": "2h 3m",
+    "durationSeconds": 7380,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BMDM0ZWRmMzctM2M5ZS00ZjU0LWIxN2MtNWNlNGY1ZDhjMDVhXkEyXkFqcGc@._V1_.jpg",
+    "year": 2011
+  },
+  {
+    "rank": 113,
+    "name": "I Swear",
+    "duration": "2h 0m",
+    "durationSeconds": 7200,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BNWQxYTMyZTktZDg5Yi00Y2YwLWI4YzQtMjkyYmYxNmFjYThmXkEyXkFqcGc@._V1_.jpg",
+    "year": 2025
+  },
+  {
+    "rank": 114,
+    "name": "Die Hard",
+    "duration": "2h 12m",
+    "durationSeconds": 7920,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BMGNlYmM1NmQtYWExMS00NmRjLTg5ZmEtMmYyYzJkMzljYWMxXkEyXkFqcGc@._V1_.jpg",
+    "year": 1988
+  },
+  {
+    "rank": 115,
+    "name": "M",
+    "duration": "1h 57m",
+    "durationSeconds": 7020,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BYWE0NDIxZTktMDg2Yi00NjA5LTlhMzMtZjViOTNkODhjNjZjXkEyXkFqcGc@._V1_.jpg",
+    "year": 1931
+  },
+  {
+    "rank": 116,
+    "name": "Indiana Jones and the Last Crusade",
+    "duration": "2h 7m",
+    "durationSeconds": 7620,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BNGIxNzQ0YzYtMjNmYi00YjBlLWFjNzEtNGE3ZGFmYTczM2MwXkEyXkFqcGc@._V1_.jpg",
+    "year": 1989
+  },
+  {
+    "rank": 117,
+    "name": "To Kill a Mockingbird",
+    "duration": "2h 9m",
+    "durationSeconds": 7740,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BZTlkYWU4MGEtZmQyYi00OWEzLTgzY2EtYzVjOTEzYzAyNTk1XkEyXkFqcGc@._V1_.jpg",
+    "year": 1962
+  },
+  {
+    "rank": 118,
+    "name": "Vertigo",
+    "duration": "2h 8m",
+    "durationSeconds": 7680,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BNzEyZTUxMWItMGVhYy00Y2NlLTljYTMtYzBmMzI1YmUyMDBkXkEyXkFqcGc@._V1_.jpg",
+    "year": 1958
+  },
+  {
+    "rank": 119,
+    "name": "Amélie",
+    "duration": "2h 2m",
+    "durationSeconds": 7320,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BOTNmYzY0MWQtZGZmNy00Y2Y4LWFmMDQtMTZjYTdiYzEwZGQ2XkEyXkFqcGc@._V1_.jpg",
+    "year": 2001
+  },
+  {
+    "rank": 120,
+    "name": "Citizen Kane",
+    "duration": "1h 59m",
+    "durationSeconds": 7140,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BYjk1ZDJlMmUtOWQ0Zi00MDM5LTk1OGYtODczNjFmMGYwZGVkXkEyXkFqcGc@._V1_.jpg",
+    "year": 1941
+  },
+  {
+    "rank": 121,
+    "name": "The Sting",
+    "duration": "2h 9m",
+    "durationSeconds": 7740,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BM2E4MGZjOGItNzAwYy00MjU5LTliZTEtNTQ3YTUzNmUzMjE0XkEyXkFqcGc@._V1_.jpg",
+    "year": 1973
+  },
+  {
+    "rank": 122,
+    "name": "A Clockwork Orange",
+    "duration": "2h 16m",
+    "durationSeconds": 8160,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_.jpg",
+    "year": 1971
+  },
+  {
+    "rank": 123,
+    "name": "The Truman Show",
+    "duration": "1h 43m",
+    "durationSeconds": 6180,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BNzA3ZjZlNzYtMTdjMy00NjMzLTk5ZGYtMTkyYzNiOGM1YmM3XkEyXkFqcGc@._V1_.jpg",
+    "year": 1998
+  },
+  {
+    "rank": 124,
+    "name": "The Wolf of Wall Street",
+    "duration": "3h 0m",
+    "durationSeconds": 10800,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_.jpg",
+    "year": 2013
+  },
+  {
+    "rank": 125,
+    "name": "Metropolis",
+    "duration": "2h 30m",
+    "durationSeconds": 9000,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjhjMGYyMjAtMzJkYy00NzhlLWIwY2MtMWQ2ODIxZDUyOGYyXkEyXkFqcGc@._V1_.jpg",
+    "year": 1927
+  },
+  {
+    "rank": 126,
+    "name": "1917",
+    "duration": "1h 59m",
+    "durationSeconds": 7140,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BYzkxZjg2NDQtMGVjMy00NWZkLTk0ZDEtZWE3NDYwYjAyMTg1XkEyXkFqcGc@._V1_.jpg",
+    "year": 2019
+  },
+  {
+    "rank": 127,
+    "name": "Snatch",
+    "duration": "1h 44m",
+    "durationSeconds": 6240,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BYzk5NjJkMTQtN2IyNC00YWM5LTlhZmMtNGI3MWNhMTU1YTc4XkEyXkFqcGc@._V1_.jpg",
+    "year": 2000
+  },
+  {
+    "rank": 128,
+    "name": "Shutter Island",
+    "duration": "2h 18m",
+    "durationSeconds": 8280,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BN2FjNWExYzEtY2YzOC00YjNlLTllMTQtNmIwM2Q1YzBhOWM1XkEyXkFqcGc@._V1_.jpg",
+    "year": 2010
+  },
+  {
+    "rank": 129,
+    "name": "Downfall",
+    "duration": "2h 36m",
+    "durationSeconds": 9360,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU0NTU5NTAyMl5BMl5BanBnXkFtZTYwNzYwMDg2._V1_.jpg",
+    "year": 2004
+  },
+  {
+    "rank": 130,
+    "name": "L.A. Confidential",
+    "duration": "2h 18m",
+    "durationSeconds": 8280,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BODdiMjY1OGYtNDk0NC00NGQ1LWI4MDItOTJhMTM0YjE1YTAzXkEyXkFqcGc@._V1_.jpg",
+    "year": 1997
+  },
+  {
+    "rank": 131,
+    "name": "Green Book",
+    "duration": "2h 10m",
+    "durationSeconds": 7800,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BYTMxMzNlMDYtYzhlMS00ODMxLWFlM2MtY2U4NzJmOGM3ZTljXkEyXkFqcGc@._V1_.jpg",
+    "year": 2018
+  },
+  {
+    "rank": 132,
+    "name": "Dangal",
+    "duration": "2h 41m",
+    "durationSeconds": 9660,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_.jpg",
+    "year": 2016
+  },
+  {
+    "rank": 133,
+    "name": "Bicycle Thieves",
+    "duration": "1h 29m",
+    "durationSeconds": 5340,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIzMzAyMzg1Nl5BMl5BanBnXkFtZTgwMzMyNzk0MTE@._V1_.jpg",
+    "year": 1948
+  },
+  {
+    "rank": 134,
+    "name": "Judgment at Nuremberg",
+    "duration": "2h 59m",
+    "durationSeconds": 10740,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_.jpg",
+    "year": 1961
+  },
+  {
+    "rank": 135,
+    "name": "Jurassic Park",
+    "duration": "2h 7m",
+    "durationSeconds": 7620,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg",
+    "year": 1993
+  },
+  {
+    "rank": 136,
+    "name": "Woman of the Dunes",
+    "duration": "2h 27m",
+    "durationSeconds": 8820,
+    "rating": 8.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BYmE1OWM2NjMtYWMzYy00MmY5LWI0ODktMDBiNjgxMWRmMjJhXkEyXkFqcGc@._V1_.jpg",
+    "year": 1964
+  },
+  {
+    "rank": 137,
+    "name": "Batman Begins",
+    "duration": "2h 20m",
+    "durationSeconds": 8400,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BMzA2NDQzZDEtNDU5Ni00YTlkLTg2OWEtYmQwM2Y1YTBjMjFjXkEyXkFqcGc@._V1_.jpg",
+    "year": 2005
+  },
+  {
+    "rank": 138,
+    "name": "Oppenheimer",
+    "duration": "3h 0m",
+    "durationSeconds": 10800,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_.jpg",
+    "year": 2023
+  },
+  {
+    "rank": 139,
+    "name": "For a Few Dollars More",
+    "duration": "2h 12m",
+    "durationSeconds": 7920,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BNTRmOTcyYmYtMTIwNi00ZGYyLTk4YjYtZGJlZTgwZGY0NGQyXkEyXkFqcGc@._V1_.jpg",
+    "year": 1965
+  },
+  {
+    "rank": 140,
+    "name": "Hamilton",
+    "duration": "2h 40m",
+    "durationSeconds": 9600,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BYTc3MWIyMzAtMTZmNC00YmNjLWIyZTgtMmU4NjZkYzZkOThkXkEyXkFqcGc@._V1_.jpg",
+    "year": 2020
+  },
+  {
+    "rank": 141,
+    "name": "There Will Be Blood",
+    "duration": "2h 38m",
+    "durationSeconds": 9480,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_.jpg",
+    "year": 2007
+  },
+  {
+    "rank": 142,
+    "name": "Some Like It Hot",
+    "duration": "2h 1m",
+    "durationSeconds": 7260,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BZTllZDYyNjEtY2RmMS00NmJhLWI4ODAtMTQ0NWFiZTJhZjA0XkEyXkFqcGc@._V1_.jpg",
+    "year": 1959
+  },
+  {
+    "rank": 143,
+    "name": "Taxi Driver",
+    "duration": "1h 54m",
+    "durationSeconds": 6840,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BZDNhMGYwM2UtMTdlZS00MGQ1LWI2YzAtODY5YWI1MjYyNzRmXkEyXkFqcGc@._V1_.jpg",
+    "year": 1976
+  },
+  {
+    "rank": 144,
+    "name": "The Father",
+    "duration": "1h 37m",
+    "durationSeconds": 5820,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BYzUxMDAyMDAtNzIyZi00OGQ1LTllMjEtYzRjOThkZTUxNTliXkEyXkFqcGc@._V1_.jpg",
+    "year": 2020
+  },
+  {
+    "rank": 145,
+    "name": "The Sixth Sense",
+    "duration": "1h 47m",
+    "durationSeconds": 6420,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BZWQ2OTY0M2UtMTQxNC00MmIzLTllNDQtNDQ0MTQyYzI2M2ZiXkEyXkFqcGc@._V1_.jpg",
+    "year": 1999
+  },
+  {
+    "rank": 146,
+    "name": "The Kid",
+    "duration": "0h 58m",
+    "durationSeconds": 3480,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BNjkxMzY1NTQtN2YwOS00NmIwLTlkNTMtMjNkMzk1ZTk3ZDU2XkEyXkFqcGc@._V1_.jpg",
+    "year": 1921
+  },
+  {
+    "rank": 147,
+    "name": "All About Eve",
+    "duration": "2h 18m",
+    "durationSeconds": 8280,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_.jpg",
+    "year": 1950
+  },
+  {
+    "rank": 148,
+    "name": "Ran",
+    "duration": "2h 40m",
+    "durationSeconds": 9600,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BZDk2NDY5YjktMjEyMC00OTJhLTkzM2EtY2Q4Y2RjYzc2Yjk4XkEyXkFqcGc@._V1_.jpg",
+    "year": 1985
+  },
+  {
+    "rank": 149,
+    "name": "The Thing",
+    "duration": "1h 49m",
+    "durationSeconds": 6540,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BYTA3NDU5MWEtNTk4Yy00ZDNkLThmZTQtMjU3ZGVhYzAyMzU4XkEyXkFqcGc@._V1_.jpg",
+    "year": 1982
+  },
+  {
+    "rank": 150,
+    "name": "Casino",
+    "duration": "2h 58m",
+    "durationSeconds": 10680,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BMDRlZWZjZjYtYzY2NS00ZWVjLTkwYzAtZTA2ZDAzMGRiYmYwXkEyXkFqcGc@._V1_.jpg",
+    "year": 1995
+  },
+  {
+    "rank": 151,
+    "name": "No Country for Old Men",
+    "duration": "2h 2m",
+    "durationSeconds": 7320,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_.jpg",
+    "year": 2007
+  },
+  {
+    "rank": 152,
+    "name": "Prisoners",
+    "duration": "2h 33m",
+    "durationSeconds": 9180,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_.jpg",
+    "year": 2013
+  },
+  {
+    "rank": 153,
+    "name": "Top Gun: Maverick",
+    "duration": "2h 10m",
+    "durationSeconds": 7800,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BMDBkZDNjMWEtOTdmMi00NmExLTg5MmMtNTFlYTJlNWY5YTdmXkEyXkFqcGc@._V1_.jpg",
+    "year": 2022
+  },
+  {
+    "rank": 154,
+    "name": "Kill Bill: Vol. 1",
+    "duration": "1h 51m",
+    "durationSeconds": 6660,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BZmMyYzJlZmYtY2I3NC00NjAyLTkyZWItZjdjZDI1YTYyYTEwXkEyXkFqcGc@._V1_.jpg",
+    "year": 2003
+  },
+  {
+    "rank": 155,
+    "name": "Pan's Labyrinth",
+    "duration": "1h 58m",
+    "durationSeconds": 7080,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BOTc1NTAxMWItMWFlNy00MmU2LTkwMTMtNzMwOTg5OTQ5YTFiXkEyXkFqcGc@._V1_.jpg",
+    "year": 2006
+  },
+  {
+    "rank": 156,
+    "name": "Unforgiven",
+    "duration": "2h 10m",
+    "durationSeconds": 7800,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BNmZmMzM3YWMtZjg5Yi00M2MxLTg3ZGItNGU4YjQxNDAxM2Q4XkEyXkFqcGc@._V1_.jpg",
+    "year": 1992
+  },
+  {
+    "rank": 157,
+    "name": "A Beautiful Mind",
+    "duration": "2h 15m",
+    "durationSeconds": 8100,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BYjgzNjFkMmItOGJhNi00NWM3LWJlYTUtNDExMGQ3ZTI3NjJkXkEyXkFqcGc@._V1_.jpg",
+    "year": 2001
+  },
+  {
+    "rank": 158,
+    "name": "Howl's Moving Castle",
+    "duration": "1h 59m",
+    "durationSeconds": 7140,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BNzlhNzlmZjktMTkyNC00ODBkLTlkZjctODAyMGRiYzQyMThmXkEyXkFqcGc@._V1_.jpg",
+    "year": 2004
+  },
+  {
+    "rank": 159,
+    "name": "The Treasure of the Sierra Madre",
+    "duration": "2h 6m",
+    "durationSeconds": 7560,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BOWM1YjFmODEtMWNhMC00YmI1LWI0Y2EtYzg0YTBhZWI4ODE3XkEyXkFqcGc@._V1_.jpg",
+    "year": 1948
+  },
+  {
+    "rank": 160,
+    "name": "Finding Nemo",
+    "duration": "1h 40m",
+    "durationSeconds": 6000,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc5NjExNTA5OV5BMl5BanBnXkFtZTYwMTQ0ODY2._V1_.jpg",
+    "year": 2003
+  },
+  {
+    "rank": 161,
+    "name": "Klaus",
+    "duration": "1h 36m",
+    "durationSeconds": 5760,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BZDA4ODhlMzctNGRmYi00NmViLTkxZGYtZjRkNGQ5YzYwYWVlXkEyXkFqcGc@._V1_.jpg",
+    "year": 2019
+  },
+  {
+    "rank": 162,
+    "name": "Project Hail Mary",
+    "duration": "2h 36m",
+    "durationSeconds": 9360,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BNTkwNzJiYTctNzI3NC00NjE1LTlhYjktY2Q5MTdmMWFmNzcxXkEyXkFqcGc@._V1_.jpg",
+    "year": 2026
+  },
+  {
+    "rank": 163,
+    "name": "Yojimbo",
+    "duration": "1h 50m",
+    "durationSeconds": 6600,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BYzFkODA1N2QtY2UyMC00NTMwLWEyNzctMmE3YjIzNzE1MzY4XkEyXkFqcGc@._V1_.jpg",
+    "year": 1961
+  },
+  {
+    "rank": 164,
+    "name": "Demon Slayer: Kimetsu No Yaiba Infinity Castle",
+    "duration": "2h 35m",
+    "durationSeconds": 9300,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BOGQ3YWUzYjEtMTJiYy00ZjQ0LWI0YjktYjhiNGVhNGExYTM3XkEyXkFqcGc@._V1_.jpg",
+    "year": 2025
+  },
+  {
+    "rank": 165,
+    "name": "The Elephant Man",
+    "duration": "2h 4m",
+    "durationSeconds": 7440,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BMGE2MzViYzEtZDFmOC00YmViLWFkZTQtYmI2NmI3NDJjMDc0XkEyXkFqcGc@._V1_.jpg",
+    "year": 1980
+  },
+  {
+    "rank": 166,
+    "name": "The Great Escape",
+    "duration": "2h 52m",
+    "durationSeconds": 10320,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BMDRhNmJjMzEtMWU5MC00YmEyLTg3ZmYtNzYxZTI1ZGU4ZjI1XkEyXkFqcGc@._V1_.jpg",
+    "year": 1963
+  },
+  {
+    "rank": 167,
+    "name": "Monty Python and the Holy Grail",
+    "duration": "1h 31m",
+    "durationSeconds": 5460,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BYWY4YmUzZmUtMzQ0ZS00N2Y2LWJlODQtN2IwMDc1MWQwMmU3XkEyXkFqcGc@._V1_.jpg",
+    "year": 1975
+  },
+  {
+    "rank": 168,
+    "name": "Dial M for Murder",
+    "duration": "1h 45m",
+    "durationSeconds": 6300,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BZmYzNDgzYjgtNmU3Ny00YzUxLWE3OWUtMjIxZmNkYTVhNDZmXkEyXkFqcGc@._V1_.jpg",
+    "year": 1954
+  },
+  {
+    "rank": 169,
+    "name": "The Secret in Their Eyes",
+    "duration": "2h 9m",
+    "durationSeconds": 7740,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTgwNTI3OTczOV5BMl5BanBnXkFtZTcwMTM3MTUyMw@@._V1_.jpg",
+    "year": 2009
+  },
+  {
+    "rank": 170,
+    "name": "Gone with the Wind",
+    "duration": "3h 58m",
+    "durationSeconds": 14280,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BYmYxZTE3YzMtYmE2Yy00NmFlLTkzYTAtYTAzN2IzNDFkN2E0XkEyXkFqcGc@._V1_.jpg",
+    "year": 1939
+  },
+  {
+    "rank": 171,
+    "name": "Lock, Stock and Two Smoking Barrels",
+    "duration": "1h 47m",
+    "durationSeconds": 6420,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BMmY1M2M5ZmMtYzllZC00YzAxLTk4MjktZDJkNjA1MTUwMGQ4XkEyXkFqcGc@._V1_.jpg",
+    "year": 1998
+  },
+  {
+    "rank": 172,
+    "name": "Catch Me If You Can",
+    "duration": "2h 21m",
+    "durationSeconds": 8460,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_.jpg",
+    "year": 2002
+  },
+  {
+    "rank": 173,
+    "name": "Chinatown",
+    "duration": "2h 10m",
+    "durationSeconds": 7800,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BNmRmZTE0NmUtZjhiZi00MzQ3LTk3ZjctN2Q3ODYzY2U3MDk3XkEyXkFqcGc@._V1_.jpg",
+    "year": 1974
+  },
+  {
+    "rank": 174,
+    "name": "V for Vendetta",
+    "duration": "2h 12m",
+    "durationSeconds": 7920,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BZDEwOTRjNjgtOGY0MC00NGYxLWFmYmQtNjc1ZjVhMTc0OWUxXkEyXkFqcGc@._V1_.jpg",
+    "year": 2005
+  },
+  {
+    "rank": 175,
+    "name": "Dead Poets Society",
+    "duration": "2h 8m",
+    "durationSeconds": 7680,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BMDYwNGVlY2ItMWYxMS00YjZiLWE5MTAtYWM5NWQ2ZWJjY2Q3XkEyXkFqcGc@._V1_.jpg",
+    "year": 1989
+  },
+  {
+    "rank": 176,
+    "name": "Inside Out",
+    "duration": "1h 35m",
+    "durationSeconds": 5700,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_.jpg",
+    "year": 2015
+  },
+  {
+    "rank": 177,
+    "name": "The Best of Youth",
+    "duration": "6h 14m",
+    "durationSeconds": 22440,
+    "rating": 8.4,
+    "image": "https://m.media-amazon.com/images/M/MV5BYzcxMTE2YjUtMzIyMy00NDNjLWE3ZWYtODQzYmNhNDVhNDZmXkEyXkFqcGc@._V1_.jpg",
+    "year": 2003
+  },
+  {
+    "rank": 178,
+    "name": "Trainspotting",
+    "duration": "1h 33m",
+    "durationSeconds": 5580,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BYmVkNGJkMzQtYWQwOS00OTZmLThjODQtZjNjNzllYzRiNTE0XkEyXkFqcGc@._V1_.jpg",
+    "year": 1996
+  },
+  {
+    "rank": 179,
+    "name": "Harry Potter and the Deathly Hallows: Part 2",
+    "duration": "2h 10m",
+    "durationSeconds": 7800,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BOTA1Mzc2N2ItZWRiNS00MjQzLTlmZDQtMjU0NmY1YWRkMGQ4XkEyXkFqcGc@._V1_.jpg",
+    "year": 2011
+  },
+  {
+    "rank": 180,
+    "name": "Three Billboards Outside Ebbing, Missouri",
+    "duration": "1h 55m",
+    "durationSeconds": 6900,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_.jpg",
+    "year": 2017
+  },
+  {
+    "rank": 181,
+    "name": "The Bridge on the River Kwai",
+    "duration": "2h 41m",
+    "durationSeconds": 9660,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BNzdkYmU2YmItNmZiYy00OWQyLTg0YWYtZmUxM2U3YTRiNTQ1XkEyXkFqcGc@._V1_.jpg",
+    "year": 1957
+  },
+  {
+    "rank": 182,
+    "name": "Rashomon",
+    "duration": "1h 28m",
+    "durationSeconds": 5280,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BZTdmNjhmNzQtYzlkZC00ZDM2LTk0NjUtMTY3NWE3NWI3YTI2XkEyXkFqcGc@._V1_.jpg",
+    "year": 1950
+  },
+  {
+    "rank": 183,
+    "name": "Barry Lyndon",
+    "duration": "3h 5m",
+    "durationSeconds": 11100,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BNmM2MGQ5Y2UtYzA3ZC00ZDJlLTkwNDYtMjBmZGExZDJiN2RlXkEyXkFqcGc@._V1_.jpg",
+    "year": 1975
+  },
+  {
+    "rank": 184,
+    "name": "Ben-Hur",
+    "duration": "3h 32m",
+    "durationSeconds": 12720,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BNjg2M2E1YzYtOThmMC00NjAyLWI5MzgtMDEwOGFiODdlOGUzXkEyXkFqcGc@._V1_.jpg",
+    "year": 1959
+  },
+  {
+    "rank": 185,
+    "name": "The Wild Robot",
+    "duration": "1h 42m",
+    "durationSeconds": 6120,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BZWNiZjVlZTUtNGUwYi00MjJmLTg2MDctNWEzYTJiMzY1ODc4XkEyXkFqcGc@._V1_.jpg",
+    "year": 2024
+  },
+  {
+    "rank": 186,
+    "name": "Hacksaw Ridge",
+    "duration": "2h 19m",
+    "durationSeconds": 8340,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_.jpg",
+    "year": 2016
+  },
+  {
+    "rank": 187,
+    "name": "Warrior",
+    "duration": "2h 20m",
+    "durationSeconds": 8400,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_.jpg",
+    "year": 2011
+  },
+  {
+    "rank": 188,
+    "name": "Ratatouille",
+    "duration": "1h 51m",
+    "durationSeconds": 6660,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_.jpg",
+    "year": 2007
+  },
+  {
+    "rank": 189,
+    "name": "Mad Max: Fury Road",
+    "duration": "2h 0m",
+    "durationSeconds": 7200,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BZDRkODJhOTgtOTc1OC00NTgzLTk4NjItNDgxZDY4YjlmNDY2XkEyXkFqcGc@._V1_.jpg",
+    "year": 2015
+  },
+  {
+    "rank": 190,
+    "name": "Million Dollar Baby",
+    "duration": "2h 12m",
+    "durationSeconds": 7920,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_.jpg",
+    "year": 2004
+  },
+  {
+    "rank": 191,
+    "name": "Fargo",
+    "duration": "1h 38m",
+    "durationSeconds": 5880,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BNjg4MWE0MjEtODFhNy00MjA5LTg5ODktMzgwNWFmZTAwNjBlXkEyXkFqcGc@._V1_.jpg",
+    "year": 1996
+  },
+  {
+    "rank": 192,
+    "name": "Children of Heaven",
+    "duration": "1h 29m",
+    "durationSeconds": 5340,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BZWZlMjNhNzgtZGRhOS00Y2U5LThjOTctODNjZTI0ZTBiYzBhXkEyXkFqcGc@._V1_.jpg",
+    "year": 1997
+  },
+  {
+    "rank": 193,
+    "name": "My Neighbour Totoro",
+    "duration": "1h 26m",
+    "durationSeconds": 5160,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BYWM3MDE3YjEtMzIzZC00ODE5LTgxNTItNmUyMTBkM2M2NmNiXkEyXkFqcGc@._V1_.jpg",
+    "year": 1988
+  },
+  {
+    "rank": 194,
+    "name": "Gran Torino",
+    "duration": "1h 56m",
+    "durationSeconds": 6960,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_.jpg",
+    "year": 2008
+  },
+  {
+    "rank": 195,
+    "name": "12 Years a Slave",
+    "duration": "2h 14m",
+    "durationSeconds": 8040,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_.jpg",
+    "year": 2013
+  },
+  {
+    "rank": 196,
+    "name": "How to Train Your Dragon",
+    "duration": "1h 38m",
+    "durationSeconds": 5880,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_.jpg",
+    "year": 2010
+  },
+  {
+    "rank": 197,
+    "name": "Raging Bull",
+    "duration": "2h 9m",
+    "durationSeconds": 7740,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjlkYmYyZWQtNTZkOS00ZjA0LWEwNWUtNzE2ZGNiYjg0MjA2XkEyXkFqcGc@._V1_.jpg",
+    "year": 1980
+  },
+  {
+    "rank": 198,
+    "name": "Memories of Murder",
+    "duration": "2h 11m",
+    "durationSeconds": 7860,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BYmRjOWE5NmMtYTdkYS00ODFlLWJiMTMtYzE2NDZlZjlkZDQ0XkEyXkFqcGc@._V1_.jpg",
+    "year": 2003
+  },
+  {
+    "rank": 199,
+    "name": "The Grand Budapest Hotel",
+    "duration": "1h 39m",
+    "durationSeconds": 5940,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_.jpg",
+    "year": 2014
+  },
+  {
+    "rank": 200,
+    "name": "Before Sunrise",
+    "duration": "1h 41m",
+    "durationSeconds": 6060,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BZDZhZmI1ZTUtYWI3NC00NTMwLTk3NWMtNDc0OGNjM2I0ZjlmXkEyXkFqcGc@._V1_.jpg",
+    "year": 1995
+  },
+  {
+    "rank": 201,
+    "name": "Monsters, Inc.",
+    "duration": "1h 32m",
+    "durationSeconds": 5520,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_.jpg",
+    "year": 2001
+  },
+  {
+    "rank": 202,
+    "name": "Blade Runner",
+    "duration": "1h 57m",
+    "durationSeconds": 7020,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BOWQ4YTBmNTQtMDYxMC00NGFjLTkwOGQtNzdhNmY1Nzc1MzUxXkEyXkFqcGc@._V1_.jpg",
+    "year": 1982
+  },
+  {
+    "rank": 203,
+    "name": "Gone Girl",
+    "duration": "2h 29m",
+    "durationSeconds": 8940,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_.jpg",
+    "year": 2014
+  },
+  {
+    "rank": 204,
+    "name": "Le Mans '66",
+    "duration": "2h 32m",
+    "durationSeconds": 9120,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BOTBjNTEyNjYtYjdkNi00YzE5LTljYzUtZjVlYmYwZmJmZWYxXkEyXkFqcGc@._V1_.jpg",
+    "year": 2019
+  },
+  {
+    "rank": 205,
+    "name": "Jaws",
+    "duration": "2h 4m",
+    "durationSeconds": 7440,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BYjViNDQzNmUtYzkxZi00NTk5LTljMmItYjJlZmZkODIxNjU1XkEyXkFqcGc@._V1_.jpg",
+    "year": 1975
+  },
+  {
+    "rank": 206,
+    "name": "In the Name of the Father",
+    "duration": "2h 13m",
+    "durationSeconds": 7980,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BMGZiZDVjNzYtZWM4ZC00MzVkLThhNDEtMDJlOTBhYzVjMmNhXkEyXkFqcGc@._V1_.jpg",
+    "year": 1993
+  },
+  {
+    "rank": 207,
+    "name": "Chainsaw Man - The Movie: Reze Arc",
+    "duration": "1h 40m",
+    "durationSeconds": 6000,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BYmUzMTk5MGQtZDg5Yy00MWEzLWIzNjUtNWIyMjFjODhiYjcyXkEyXkFqcGc@._V1_.jpg",
+    "year": 2025
+  },
+  {
+    "rank": 208,
+    "name": "Spider-Man: No Way Home",
+    "duration": "2h 28m",
+    "durationSeconds": 8880,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_.jpg",
+    "year": 2021
+  },
+  {
+    "rank": 209,
+    "name": "Wild Tales",
+    "duration": "2h 2m",
+    "durationSeconds": 7320,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BNzAzMjA1ODAxOV5BMl5BanBnXkFtZTgwODg4NTQzNDE@._V1_.jpg",
+    "year": 2014
+  },
+  {
+    "rank": 210,
+    "name": "A Silent Voice: The Movie",
+    "duration": "2h 10m",
+    "durationSeconds": 7800,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTRlNjA2N2YtM2FiMS00ZDc5LWJmY2MtNmMxZTgwNzRmZDBmXkEyXkFqcGc@._V1_.jpg",
+    "year": 2016
+  },
+  {
+    "rank": 211,
+    "name": "The Gold Rush",
+    "duration": "1h 35m",
+    "durationSeconds": 5700,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BNGU1NjYzYTAtZmY0YS00NWIzLTkzNzUtYzc2ZTIyOTIxZjVhXkEyXkFqcGc@._V1_.jpg",
+    "year": 1925
+  },
+  {
+    "rank": 212,
+    "name": "Mary and Max",
+    "duration": "1h 32m",
+    "durationSeconds": 5520,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BNzY2Mjc4NjMtNGY4Mi00NzM5LTk3ZTQtN2VkNzVkMzRmM2Y2XkEyXkFqcGc@._V1_.jpg",
+    "year": 2009
+  },
+  {
+    "rank": 213,
+    "name": "Sherlock Jr.",
+    "duration": "0h 45m",
+    "durationSeconds": 2700,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjQzM2E2NjYtYmRjMC00ZmVlLTljZTgtNmQ5MGZlNDYyZTc5XkEyXkFqcGc@._V1_.jpg",
+    "year": 1924
+  },
+  {
+    "rank": 214,
+    "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "duration": "2h 23m",
+    "durationSeconds": 8580,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BNDhlMzEyNzItMTA5Mi00YWRhLThlNTktYTQyMTA0MDIyNDEyXkEyXkFqcGc@._V1_.jpg",
+    "year": 2003
+  },
+  {
+    "rank": 215,
+    "name": "Logan",
+    "duration": "2h 17m",
+    "durationSeconds": 8220,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BM2JjODdkMGMtNmY2YS00OGM2LThiY2YtZGYyNzE4Nzc2ODA0XkEyXkFqcGc@._V1_.jpg",
+    "year": 2017
+  },
+  {
+    "rank": 216,
+    "name": "Rocky",
+    "duration": "2h 0m",
+    "durationSeconds": 7200,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BZDEyY2M2MGMtYjg5OC00ZWFjLWFkZDQtNmQzZTdiYmYzZTBkXkEyXkFqcGc@._V1_.jpg",
+    "year": 1976
+  },
+  {
+    "rank": 217,
+    "name": "The Wages of Fear",
+    "duration": "2h 36m",
+    "durationSeconds": 9360,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BOGE5OTg2ZDItNzEzOC00ZDVkLWJkZGUtMDI2MDRlODg3NWIwXkEyXkFqcGc@._V1_.jpg",
+    "year": 1953
+  },
+  {
+    "rank": 218,
+    "name": "The Deer Hunter",
+    "duration": "3h 3m",
+    "durationSeconds": 10980,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BZGI4YmVhMzMtMWExMS00MGZiLTg2MmItM2I2MWZjODAyM2U5XkEyXkFqcGc@._V1_.jpg",
+    "year": 1978
+  },
+  {
+    "rank": 219,
+    "name": "The General",
+    "duration": "1h 18m",
+    "durationSeconds": 4680,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTVhM2Y1MDUtMDkxYi00Y2UxLWI2MTMtZjMzYTY4ODM4MGIzXkEyXkFqcGc@._V1_.jpg",
+    "year": 1926
+  },
+  {
+    "rank": 220,
+    "name": "Mr. Smith Goes to Washington",
+    "duration": "2h 9m",
+    "durationSeconds": 7740,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BMDU4ZjNmMjEtMjcxYi00NDAxLWFlMjQtNWIyNjg5NWUzNTdjXkEyXkFqcGc@._V1_.jpg",
+    "year": 1939
+  },
+  {
+    "rank": 221,
+    "name": "Tokyo Story",
+    "duration": "2h 17m",
+    "durationSeconds": 8220,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BODdkNzcxZjItMDU2Yy00Y2JlLWFkYTQtNzIwM2Q4MWU5MTU2XkEyXkFqcGc@._V1_.jpg",
+    "year": 1953
+  },
+  {
+    "rank": 222,
+    "name": "Maharaja",
+    "duration": "2h 21m",
+    "durationSeconds": 8460,
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/M/MV5BZWQ2YzJmNjMtNGEzMC00YzkwLTk0Y2QtODdkMjFkM2UwNDU1XkEyXkFqcGc@._V1_.jpg",
+    "year": 2024
+  },
+  {
+    "rank": 223,
+    "name": "The Sound of Music",
+    "duration": "2h 54m",
+    "durationSeconds": 10440,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BYWJhYmU4MjQtZDJhYi00ZGVjLTlkNTEtNzkzNGVjOWQ3MjcwXkEyXkFqcGc@._V1_.jpg",
+    "year": 1965
+  },
+  {
+    "rank": 224,
+    "name": "La haine",
+    "duration": "1h 38m",
+    "durationSeconds": 5880,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BYmU2OWQwNGYtNDA1ZS00ZGJjLWFhMDAtZGI4MGRhYzY0ZDY4XkEyXkFqcGc@._V1_.jpg",
+    "year": 1995
+  },
+  {
+    "rank": 225,
+    "name": "Spotlight",
+    "duration": "2h 9m",
+    "durationSeconds": 7740,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_.jpg",
+    "year": 2015
+  },
+  {
+    "rank": 226,
+    "name": "Jai Bhim",
+    "duration": "2h 44m",
+    "durationSeconds": 9840,
+    "rating": 8.6,
+    "image": "https://m.media-amazon.com/images/M/MV5BZjEyNDIzNmEtMjdkYS00ZDAwLTljOWYtNDRhYTVhYTlmOTk1XkEyXkFqcGc@._V1_.jpg",
+    "year": 2021
+  },
+  {
+    "rank": 227,
+    "name": "The Terminator",
+    "duration": "1h 47m",
+    "durationSeconds": 6420,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BZmE0YzIxM2QtMGNlMi00MjRmLWE3MWMtOWQzMGVjMmU0YTFmXkEyXkFqcGc@._V1_.jpg",
+    "year": 1984
+  },
+  {
+    "rank": 228,
+    "name": "Wild Strawberries",
+    "duration": "1h 32m",
+    "durationSeconds": 5520,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BNWNiMjQ1M2YtZjQyMi00MmY5LTk3OGUtZDhiMjUxZmJjODE2XkEyXkFqcGc@._V1_.jpg",
+    "year": 1957
+  },
+  {
+    "rank": 229,
+    "name": "The Best Years of Our Lives",
+    "duration": "2h 50m",
+    "durationSeconds": 10200,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BNTgxMzUyODQtMDJmZC00ZGMyLWI3MzAtZTYwYjBjZjFmMzIxXkEyXkFqcGc@._V1_.jpg",
+    "year": 1946
+  },
+  {
+    "rank": 230,
+    "name": "On the Waterfront",
+    "duration": "1h 48m",
+    "durationSeconds": 6480,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BZDJlYTM1ZGYtZTM4YS00MzFhLThiZjktYzQ0ZjAzMGYwZTU3XkEyXkFqcGc@._V1_.jpg",
+    "year": 1954
+  },
+  {
+    "rank": 231,
+    "name": "The Third Man",
+    "duration": "1h 44m",
+    "durationSeconds": 6240,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjMwNzMzMTQ0Ml5BMl5BanBnXkFtZTgwNjExMzUwNjE@._V1_.jpg",
+    "year": 1949
+  },
+  {
+    "rank": 232,
+    "name": "The Big Lebowski",
+    "duration": "1h 57m",
+    "durationSeconds": 7020,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BY2E3OWQ5OWYtYTRkMC00NjVjLWIzZDQtNmRmM2ZiYTIyYmYxXkEyXkFqcGc@._V1_.jpg",
+    "year": 1998
+  },
+  {
+    "rank": 233,
+    "name": "The Incredibles",
+    "duration": "1h 55m",
+    "durationSeconds": 6900,
+    "rating": 8,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_.jpg",
+    "year": 2004
+  },
+  {
+    "rank": 234,
+    "name": "Hachi: A Dog's Tale",
+    "duration": "1h 33m",
+    "durationSeconds": 5580,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BNTU5NjYyYTgtZGQ3My00MzRhLThjNGYtZmVjN2JjYjhkMjhhXkEyXkFqcGc@._V1_.jpg",
+    "year": 2009
+  },
+  {
+    "rank": 235,
+    "name": "Before Sunset",
+    "duration": "1h 20m",
+    "durationSeconds": 4800,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_.jpg",
+    "year": 2004
+  },
+  {
+    "rank": 236,
+    "name": "The Iron Giant",
+    "duration": "1h 26m",
+    "durationSeconds": 5160,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BZTc2ZjdhZTctZDRlNC00ZWI4LWEyYjItMjQ3MjNjMDVkNmMzXkEyXkFqcGc@._V1_.jpg",
+    "year": 1999
+  },
+  {
+    "rank": 237,
+    "name": "The Exorcist",
+    "duration": "2h 2m",
+    "durationSeconds": 7320,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BZjg3YjE4ZjAtYTdmYS00ZTBkLWE1ZjgtNzAzODUwNzRiYjlmXkEyXkFqcGc@._V1_.jpg",
+    "year": 1973
+  },
+  {
+    "rank": 238,
+    "name": "Room",
+    "duration": "1h 58m",
+    "durationSeconds": 7080,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_.jpg",
+    "year": 2015
+  },
+  {
+    "rank": 239,
+    "name": "Hotel Rwanda",
+    "duration": "2h 1m",
+    "durationSeconds": 7260,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BY2FmMWRmZmQtN2IzMS00OGVmLWFmNjktMTM0YWQzODcwYTEwXkEyXkFqcGc@._V1_.jpg",
+    "year": 2004
+  },
+  {
+    "rank": 240,
+    "name": "Platoon",
+    "duration": "2h 0m",
+    "durationSeconds": 7200,
+    "rating": 8,
+    "image": "https://m.media-amazon.com/images/M/MV5BZjE4YjllODAtZGMxZS00Mjg2LThkOWUtZjNkMjQ5YThiNDU4XkEyXkFqcGc@._V1_.jpg",
+    "year": 1986
+  },
+  {
+    "rank": 241,
+    "name": "The Seventh Seal",
+    "duration": "1h 36m",
+    "durationSeconds": 5760,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BZDlmYTkzOWUtODQ0MS00MmM4LWE3ZjMtYTEwNGUwMmJkYzIxXkEyXkFqcGc@._V1_.jpg",
+    "year": 1957
+  },
+  {
+    "rank": 242,
+    "name": "Rush",
+    "duration": "2h 3m",
+    "durationSeconds": 7380,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTZhOGQxM2ItNGQyYy00YzE5LWI5MjMtNmMzNGQzNDE1OTUzXkEyXkFqcGc@._V1_.jpg",
+    "year": 2013
+  },
+  {
+    "rank": 243,
+    "name": "The Battle of Algiers",
+    "duration": "2h 1m",
+    "durationSeconds": 7260,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY2Mjk0OGEtYTM3Yy00ZWZiLWFhNjAtNGExMjEzNGVmMDMxXkEyXkFqcGc@._V1_.jpg",
+    "year": 1966
+  },
+  {
+    "rank": 244,
+    "name": "Stand by Me",
+    "duration": "1h 29m",
+    "durationSeconds": 5340,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BNGJkNTUwM2MtZWE2MS00YjNkLWE3MjktNWQwZDQxMDIyZWVmXkEyXkFqcGc@._V1_.jpg",
+    "year": 1986
+  },
+  {
+    "rank": 245,
+    "name": "The Wizard of Oz",
+    "duration": "1h 42m",
+    "durationSeconds": 6120,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTcwZTJmMWUtYmVmNi00Y2ZkLWIyY2ItY2I1YWMxMmU2ZDcxXkEyXkFqcGc@._V1_.jpg",
+    "year": 1939
+  },
+  {
+    "rank": 246,
+    "name": "My Father and My Son",
+    "duration": "1h 52m",
+    "durationSeconds": 6720,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BZDE3MTBkNmQtNGFjMC00YTcwLWExY2ItN2MyMGZkNWJlMmFmXkEyXkFqcGc@._V1_.jpg",
+    "year": 2005
+  },
+  {
+    "rank": 247,
+    "name": "The Passion of Joan of Arc",
+    "duration": "1h 50m",
+    "durationSeconds": 6600,
+    "rating": 8.1,
+    "image": "https://m.media-amazon.com/images/M/MV5BNTE1MDliZjgtYTU2Yy00YjAxLTljYTItNDE2ZGYwYTY1MGQ1XkEyXkFqcGc@._V1_.jpg",
+    "year": 1928
+  },
+  {
+    "rank": 248,
+    "name": "Drishyam",
+    "duration": "2h 43m",
+    "durationSeconds": 9780,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BYjMzZTU0NzUtZGQ0MC00Y2M4LWI5ZDUtZjY1YmNjMjNmNmI3XkEyXkFqcGc@._V1_.jpg",
+    "year": 2015
+  },
+  {
+    "rank": 249,
+    "name": "Gangs of Wasseypur",
+    "duration": "5h 21m",
+    "durationSeconds": 19260,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BNWQyMmJkYTItNDUyYS00MjgwLWFmYjUtOWQ1NmRjOGZlOTZhXkEyXkFqcGc@._V1_.jpg",
+    "year": 2012
+  },
+  {
+    "rank": 250,
+    "name": "Miracle in Cell No. 7",
+    "duration": "2h 12m",
+    "durationSeconds": 7920,
+    "rating": 8.2,
+    "image": "https://m.media-amazon.com/images/M/MV5BMTEyZTQ4YWItMzNkNi00MTUwLWEyODAtMWI3NDNhNDRiYmQwXkEyXkFqcGc@._V1_.jpg",
+    "year": 2019
+  }
+]

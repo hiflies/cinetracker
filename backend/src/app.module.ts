@@ -1,6 +1,7 @@
 import { Module } from '@nestjs/common';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { AppController } from './app.controller';
+import { MoviesModule } from './movies/movies.module';
 
 @Module({
   imports: [
@@ -14,6 +15,7 @@ import { AppController } from './app.controller';
       autoLoadEntities: true,
       synchronize: true, // dev convenience; use migrations in production
     }),
+    MoviesModule,
   ],
   controllers: [AppController],
 })
