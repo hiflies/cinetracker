@@ -1,24 +1,8 @@
-import { useEffect, useState } from 'react';
+export type User = { id: number; email: string; name: string; picture: string | null };
 
-type User = { id: number; email: string; name: string; picture: string | null };
+type Props = { user: User | null; ready: boolean; onLogout: () => void };
 
-export default function AuthBar() {
-  const [user, setUser] = useState<User | null>(null);
-  const [ready, setReady] = useState(false);
-
-  useEffect(() => {
-    fetch('/api/auth/me')
-      .then((res) => (res.ok ? res.json() : null))
-      .then(setUser)
-      .catch(() => setUser(null))
-      .finally(() => setReady(true));
-  }, []);
-
-  const logout = async () => {
-    await fetch('/api/auth/logout', { method: 'POST' });
-    setUser(null);
-  };
-
+export default function AuthBar({ user, ready, onLogout }: Props) {
   if (!ready) return null;
 
   if (user) {
@@ -26,7 +10,7 @@ export default function AuthBar() {
       <div className="auth">
         {user.picture && <img src={user.picture} alt="" className="avatar" referrerPolicy="no-referrer" />}
         <span>{user.name}</span>
-        <button type="button" className="ghost-btn" onClick={logout}>
+        <button type="button" className="ghost-btn" onClick={onLogout}>
           Log out
         </button>
       </div>

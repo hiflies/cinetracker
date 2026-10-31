@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react';
-import AuthBar from './AuthBar';
+import AuthBar, { type User } from './AuthBar';
 import './App.css';
 
 type Movie = {
@@ -12,6 +12,7 @@ type Movie = {
 };
 
 type Sort = 'rank' | 'rating' | 'year' | 'name';
+type Filter = 'all' | 'watched' | 'unwatched';
 
 export default function App() {
   const [movies, setMovies] = useState<Movie[]>([]);
@@ -19,6 +20,10 @@ export default function App() {
   const [loading, setLoading] = useState(true);
   const [query, setQuery] = useState('');
   const [sort, setSort] = useState<Sort>('rank');
+  const [user, setUser] = useState<User | null>(null);
+  const [authReady, setAuthReady] = useState(false);
+  const [watched, setWatched] = useState<Set<number>>(new Set());
+  const [filter, setFilter] = useState<Filter>('all');
   const [picked, setPicked] = useState<Movie | null>(null);
 
   const pickRandom = () => {
@@ -40,9 +45,56 @@ export default function App() {
       .finally(() => setLoading(false));
   }, []);
 
+  useEffect(() => {
+    fetch('/api/auth/me')
+      .then((res) => (res.ok ? res.json() : null))
+      .then(setUser)
+      .catch(() => setUser(null))
+      .finally(() => setAuthReady(true));
+  }, []);
+
+  useEffect(() => {
+    if (!user) {
+      setWatched(new Set());
+      setFilter('all');
+      return;
+    }
+    fetch('/api/watched')
+      .then((res) => (res.ok ? res.json() : []))
+      .then((ranks: number[]) => setWatched(new Set(ranks)))
+      .catch(() => setWatched(new Set()));
+  }, [user]);
+
+  const logout = async () => {
+    await fetch('/api/auth/logout', { method: 'POST' });
+    setUser(null);
+  };
+
+  const toggleWatched = async (rank: number) => {
+    const wasWatched = watched.has(rank);
+    const apply = (on: boolean) =>
+      setWatched((prev) => {
+        const next = new Set(prev);
+        if (on) next.add(rank);
+        else next.delete(rank);
+        return next;
+      });
+    apply(!wasWatched);
+    try {
+      const res = await fetch(`/api/watched/${rank}`, { method: wasWatched ? 'DELETE' : 'PUT' });
+      if (!res.ok) throw new Error(res.statusText);
+    } catch {
+      apply(wasWatched);
+    }
+  };
+
   const visible = useMemo(() => {
     const q = query.trim().toLowerCase();
-    const filtered = q ? movies.filter((m) => m.name.toLowerCase().includes(q)) : movies;
+    const filtered = movies.filter(
+      (m) =>
+        (!q || m.name.toLowerCase().includes(q)) &&
+        (filter === 'all' || (filter === 'watched') === watched.has(m.rank)),
+    );
     return [...filtered].sort((a, b) => {
       switch (sort) {
         case 'rating':
@@ -55,7 +107,7 @@ export default function App() {
           return a.rank - b.rank;
       }
     });
-  }, [movies, query, sort]);
+  }, [movies, query, sort, filter, watched]);
 
   return (
     <main className="page">
@@ -64,7 +116,7 @@ export default function App() {
           <h1>CineTracker</h1>
           <p>IMDb Top 250 movies</p>
         </div>
-        <AuthBar />
+        <AuthBar user={user} ready={authReady} onLogout={logout} />
       </header>
 
       <div className="toolbar">
@@ -81,6 +133,13 @@ export default function App() {
           <option value="year">Newest</option>
           <option value="name">Name</option>
         </select>
+        {user && (
+          <select value={filter} onChange={(e) => setFilter(e.target.value as Filter)} aria-label="Filter by watched">
+            <option value="all">All movies</option>
+            <option value="watched">Watched ({watched.size})</option>
+            <option value="unwatched">Not watched</option>
+          </select>
+        )}
         <button type="button" className="random-btn" onClick={pickRandom} disabled={movies.length === 0}>
           Random movie
         </button>
@@ -93,10 +152,11 @@ export default function App() {
 
       <ul className="grid">
         {visible.map((m) => (
-          <li key={m.rank} className="card">
+          <li key={m.rank} className={`card${watched.has(m.rank) ? ' watched' : ''}`}>
             <div className="poster">
               <img src={m.image} alt={`${m.name} poster`} loading="lazy" referrerPolicy="no-referrer" />
               <span className="rank">#{m.rank}</span>
+              {watched.has(m.rank) && <span className="seen-badge">✓ Watched</span>}
             </div>
             <div className="info">
               <h2 title={m.name}>{m.name}</h2>
@@ -105,6 +165,15 @@ export default function App() {
                 <span>{m.duration}</span>
                 <span className="rating">★ {m.rating.toFixed(1)}</span>
               </div>
+              {user && (
+                <button
+                  type="button"
+                  className={`watch-btn${watched.has(m.rank) ? ' on' : ''}`}
+                  onClick={() => toggleWatched(m.rank)}
+                >
+                  {watched.has(m.rank) ? 'Unmark watched' : 'Mark as watched'}
+                </button>
+              )}
             </div>
           </li>
         ))}

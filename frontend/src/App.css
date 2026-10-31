@@ -248,3 +248,40 @@ body {
   font-size: 0.95rem;
   text-decoration: none;
 }
+
+.watch-btn {
+  width: 100%;
+  margin-top: 10px;
+  padding: 6px 8px;
+  border-radius: 6px;
+  border: 1px solid #2a2f3a;
+  background: transparent;
+  color: inherit;
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+
+.watch-btn:hover {
+  border-color: #f5c518;
+}
+
+.watch-btn.on {
+  background: #1f3a2a;
+  border-color: #2f6b47;
+  color: #7ee2a8;
+}
+
+.card.watched .poster img {
+  opacity: 0.55;
+}
+
+.seen-badge {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  padding: 2px 8px;
+  border-radius: 6px;
+  background: #2f6b47;
+  font-size: 0.75rem;
+  font-weight: 600;
+}

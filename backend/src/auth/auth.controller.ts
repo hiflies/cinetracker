@@ -2,9 +2,9 @@ import { Controller, Get, Post, Req, Res, UnauthorizedException, UseGuards } fro
 import { Request, Response } from 'express';
 import { AuthService } from './auth.service';
 import { GoogleAuthGuard } from './google-auth.guard';
+import { AUTH_COOKIE as COOKIE } from './cookie-auth.guard';
 import { GoogleProfile } from './google.strategy';
 
-const COOKIE = 'token';
 
 @Controller('auth')
 export class AuthController {

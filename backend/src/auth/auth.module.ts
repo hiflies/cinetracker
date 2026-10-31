@@ -3,6 +3,7 @@ import { JwtModule } from '@nestjs/jwt';
 import { PassportModule } from '@nestjs/passport';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { AuthController } from './auth.controller';
+import { CookieAuthGuard } from './cookie-auth.guard';
 import { AuthService } from './auth.service';
 import { GoogleStrategy } from './google.strategy';
 import { User } from './user.entity';
@@ -14,6 +15,7 @@ import { User } from './user.entity';
     JwtModule.register({ secret: process.env.JWT_SECRET, signOptions: { expiresIn: '7d' } }),
   ],
   controllers: [AuthController],
-  providers: [AuthService, GoogleStrategy],
+  providers: [AuthService, GoogleStrategy, CookieAuthGuard],
+  exports: [AuthService, CookieAuthGuard],
 })
 export class AuthModule {}
