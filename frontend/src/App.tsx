@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useState } from 'react';
+import AuthBar from './AuthBar';
 import './App.css';
 
 type Movie = {
@@ -18,6 +19,18 @@ export default function App() {
   const [loading, setLoading] = useState(true);
   const [query, setQuery] = useState('');
   const [sort, setSort] = useState<Sort>('rank');
+  const [picked, setPicked] = useState<Movie | null>(null);
+
+  const pickRandom = () => {
+    if (movies.length === 0) return;
+    setPicked((prev) => {
+      let next: Movie;
+      do {
+        next = movies[Math.floor(Math.random() * movies.length)];
+      } while (movies.length > 1 && next.rank === prev?.rank);
+      return next;
+    });
+  };
 
   useEffect(() => {
     fetch('/api/movies')
@@ -47,8 +60,11 @@ export default function App() {
   return (
     <main className="page">
       <header className="header">
-        <h1>CineTracker</h1>
-        <p>IMDb Top 250 movies</p>
+        <div>
+          <h1>CineTracker</h1>
+          <p>IMDb Top 250 movies</p>
+        </div>
+        <AuthBar />
       </header>
 
       <div className="toolbar">
@@ -65,6 +81,9 @@ export default function App() {
           <option value="year">Newest</option>
           <option value="name">Name</option>
         </select>
+        <button type="button" className="random-btn" onClick={pickRandom} disabled={movies.length === 0}>
+          Random movie
+        </button>
         <span className="count">{visible.length} movies</span>
       </div>
 
@@ -90,6 +109,31 @@ export default function App() {
           </li>
         ))}
       </ul>
+
+      {picked && (
+        <div className="overlay" onClick={() => setPicked(null)}>
+          <div className="modal" role="dialog" aria-label="Random movie" onClick={(e) => e.stopPropagation()}>
+            <img src={picked.image} alt={`${picked.name} poster`} referrerPolicy="no-referrer" />
+            <div className="modal-body">
+              <span className="rank-label">#{picked.rank} on IMDb Top 250</span>
+              <h2>{picked.name}</h2>
+              <div className="meta">
+                <span>{picked.year}</span>
+                <span>{picked.duration}</span>
+                <span className="rating">★ {picked.rating.toFixed(1)}</span>
+              </div>
+              <div className="actions">
+                <button type="button" className="random-btn" onClick={pickRandom}>
+                  Pick another
+                </button>
+                <button type="button" className="ghost-btn" onClick={() => setPicked(null)}>
+                  Close
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
     </main>
   );
 }
