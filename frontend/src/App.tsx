@@ -26,13 +26,19 @@ export default function App() {
   const [filter, setFilter] = useState<Filter>('all');
   const [picked, setPicked] = useState<Movie | null>(null);
 
+  // logged-in users get suggestions from movies they haven't watched yet
+  const pool = useMemo(
+    () => (user ? movies.filter((m) => !watched.has(m.rank)) : movies),
+    [movies, watched, user],
+  );
+
   const pickRandom = () => {
-    if (movies.length === 0) return;
+    if (pool.length === 0) return;
     setPicked((prev) => {
       let next: Movie;
       do {
-        next = movies[Math.floor(Math.random() * movies.length)];
-      } while (movies.length > 1 && next.rank === prev?.rank);
+        next = pool[Math.floor(Math.random() * pool.length)];
+      } while (pool.length > 1 && next.rank === prev?.rank);
       return next;
     });
   };
@@ -69,6 +75,9 @@ export default function App() {
     await fetch('/api/auth/logout', { method: 'POST' });
     setUser(null);
   };
+
+  // posters stay hidden until the logged-in user has marked the movie as watched
+  const hidden = (rank: number) => !!user && !watched.has(rank);
 
   const toggleWatched = async (rank: number) => {
     const wasWatched = watched.has(rank);
@@ -140,7 +149,8 @@ export default function App() {
             <option value="unwatched">Not watched</option>
           </select>
         )}
-        <button type="button" className="random-btn" onClick={pickRandom} disabled={movies.length === 0}>
+        <button type="button" className="random-btn" onClick={pickRandom} disabled={pool.length === 0}
+          title={pool.length === 0 && movies.length > 0 ? 'You have watched every movie!' : undefined}>
           Random movie
         </button>
         <span className="count">{visible.length} movies</span>
@@ -153,9 +163,10 @@ export default function App() {
       <ul className="grid">
         {visible.map((m) => (
           <li key={m.rank} className={`card${watched.has(m.rank) ? ' watched' : ''}`}>
-            <div className="poster">
+            <div className={`poster${hidden(m.rank) ? ' unrevealed' : ''}`}>
               <img src={m.image} alt={`${m.name} poster`} loading="lazy" referrerPolicy="no-referrer" />
               <span className="rank">#{m.rank}</span>
+              {hidden(m.rank) && <span className="hidden-mark">?</span>}
               {watched.has(m.rank) && <span className="seen-badge">✓ Watched</span>}
             </div>
             <div className="info">
@@ -192,7 +203,16 @@ export default function App() {
                 <span className="rating">★ {picked.rating.toFixed(1)}</span>
               </div>
               <div className="actions">
-                <button type="button" className="random-btn" onClick={pickRandom}>
+                {user && (
+                  <button
+                    type="button"
+                    className={`watch-btn modal-watch${watched.has(picked.rank) ? ' on' : ''}`}
+                    onClick={() => toggleWatched(picked.rank)}
+                  >
+                    {watched.has(picked.rank) ? '✓ Watched' : 'Mark as watched'}
+                  </button>
+                )}
+                <button type="button" className="random-btn" onClick={pickRandom} disabled={pool.length === 0}>
                   Pick another
                 </button>
                 <button type="button" className="ghost-btn" onClick={() => setPicked(null)}>
