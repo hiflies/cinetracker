@@ -3,6 +3,7 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 import { AppController } from './app.controller';
 import { AuthModule } from './auth/auth.module';
 import { WatchedModule } from './watched/watched.module';
+import { ListsModule } from './lists/lists.module';
 import { MoviesModule } from './movies/movies.module';
 
 @Module({
@@ -20,6 +21,7 @@ import { MoviesModule } from './movies/movies.module';
     MoviesModule,
     AuthModule,
     WatchedModule,
+    ListsModule,
   ],
   controllers: [AppController],
 })

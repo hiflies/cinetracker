@@ -313,3 +313,78 @@ body {
   padding: 8px 16px;
   font-size: 1rem;
 }
+
+.listbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.chip {
+  padding: 6px 14px;
+  border-radius: 999px;
+  border: 1px solid #2a2f3a;
+  background: #181b22;
+  color: inherit;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.chip.active {
+  background: #f5c518;
+  border-color: #f5c518;
+  color: #111;
+  font-weight: 600;
+}
+
+.chip.add {
+  border-style: dashed;
+  color: #9aa0ad;
+}
+
+.chip-count {
+  opacity: 0.7;
+  font-size: 0.8rem;
+  margin-left: 4px;
+}
+
+.new-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+
+.new-list input {
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid #2a2f3a;
+  background: #181b22;
+  color: inherit;
+  font-size: 1rem;
+}
+
+.ghost-btn.danger {
+  margin-left: auto;
+  color: #ff6b6b;
+  border-color: #5a2a2a;
+}
+
+.add-select {
+  width: 100%;
+  margin-top: 8px;
+  padding: 6px 8px;
+  border-radius: 6px;
+  border: 1px solid #2a2f3a;
+  background: #181b22;
+  color: inherit;
+  font-size: 0.8rem;
+}

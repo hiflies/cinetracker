@@ -20,19 +20,19 @@ export class WatchedController {
   @Get()
   async list(@Req() req: AuthedRequest) {
     const rows = await this.watched.findBy({ userId: req.user.id });
-    return rows.map((r) => r.movieRank);
+    return rows.map((r) => r.movieId);
   }
 
-  @Put(':rank')
-  async mark(@Req() req: AuthedRequest, @Param('rank', ParseIntPipe) rank: number) {
-    if (!(await this.movies.existsBy({ rank }))) throw new NotFoundException('Movie not found');
-    await this.watched.save({ userId: req.user.id, movieRank: rank });
-    return { rank, watched: true };
+  @Put(':id')
+  async mark(@Req() req: AuthedRequest, @Param('id', ParseIntPipe) id: number) {
+    if (!(await this.movies.existsBy({ id }))) throw new NotFoundException('Movie not found');
+    await this.watched.save({ userId: req.user.id, movieId: id });
+    return { id, watched: true };
   }
 
-  @Delete(':rank')
-  async unmark(@Req() req: AuthedRequest, @Param('rank', ParseIntPipe) rank: number) {
-    await this.watched.delete({ userId: req.user.id, movieRank: rank });
-    return { rank, watched: false };
+  @Delete(':id')
+  async unmark(@Req() req: AuthedRequest, @Param('id', ParseIntPipe) id: number) {
+    await this.watched.delete({ userId: req.user.id, movieId: id });
+    return { id, watched: false };
   }
 }

@@ -6,7 +6,7 @@ export class Watched {
   userId: number;
 
   @PrimaryColumn()
-  movieRank: number;
+  movieId: number;
 
   @CreateDateColumn()
   watchedAt: Date;
